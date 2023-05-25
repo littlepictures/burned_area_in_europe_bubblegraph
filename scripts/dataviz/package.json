@@ -1,0 +1,14 @@
+{
+  "name": "@a-tack/burned_area_europe",
+  "main": "3f22b4fe660beca7@630.js",
+  "version": "630.0.0",
+  "homepage": "https://observablehq.com/@a-tack/burned_area_europe",
+  "author": {
+    "name": "a-tack",
+    "url": "https://observablehq.com/@a-tack"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
