@@ -1,7 +1,12 @@
-# CLIP - Fire Bubbles Cluster
+# little picture - burned area in europe - bubblegraph
 
-## Background on this CLIP
-This repository contains a Jupyter notebook that analyzes the Fire_CCI Burned Area data for European countries. The data represents the area of land that has been burned due to wildfires, and these measurements are taken from the MODIS instrument. It creates a bubble plot visualization that enables the viewer to interpret fire location and intensity over time.
+## Background on this little picture
+_burned area in europe – an animated bubblegraph_
+
+Monitoring wildfires from space is crucial for understanding their impact on climate, including the release of greenhouse gases &amp; aerosols that influence the Earth system.
+This data-driven Little Picture uses satellite data to illustrate the annual pattern of burned area for European countries between 2001-2020. The size of each circle represents the burned area for the individual countries of Europe.
+
+https://climate.esa.int/en/little-pictures-gallery/burned-area-bubbles/
 
 ## Data Sources
 
