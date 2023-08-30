@@ -20,7 +20,7 @@ The CLIP uses the following datasets:
 ## Data Preparation
 For this clip the same dataset as the fire bubbles poster clip was used but converted into a json file. It is located in the data folder.
 
-## Creating Visualizations
+## Creating Visualisations
 The clip uses an observable notebook for visualization. It can be accessed online under https://observablehq.com/@a-tack/burned_area_europe .
 The code can also be viewed in the scripts folder of this repository.
 
